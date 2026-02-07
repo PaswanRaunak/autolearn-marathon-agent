@@ -1,0 +1,5 @@
+{
+  "name": "AutoLearn Marathon Agent",
+  "description": "An autonomous AI agent system that plans, executes, verifies, and self-corrects through long-term goals.",
+  "requestFramePermissions": []
+}
